@@ -2,7 +2,7 @@
 
 def load_library(file_path)
   
-  emoticons = YAML.load_d(file_path)
+  emoticons = YAML.load_library(file_path)
   
 end
 

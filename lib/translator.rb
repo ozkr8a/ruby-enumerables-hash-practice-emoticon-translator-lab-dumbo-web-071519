@@ -5,7 +5,7 @@ def load_library(file_path)
   
   YAML.load(file_path)
   
-  hash = Hash.new
+  hash = {get_meaning =>, get_emoticon =>}
   
   
   
